@@ -1,0 +1,23 @@
+<Form>
+  <Field>
+    <Type>text</Type>
+    <Label>Name</Label>
+  </Field>
+  <Field>
+    <Type>datetime</Type>
+    <Label>Date of Birth</Label>
+  </Field>
+  <Field>
+    <Type>radio</Type>
+    <Label>Gender</Label>
+    <Options>
+      <Option value="male">Male</Option>
+      <Option value="female">Female</Option>
+      <Option value="other">Other</Option>
+    </Options>
+  </Field>
+  <Field>
+    <Type>drawing</Type>
+    <Label>Signature</Label>
+  </Field>
+</Form>
